@@ -15,4 +15,11 @@
   font-size: calc(10px + 4vmin);
   color: white;
 }
- 
+
+.App-cards {
+  position: absolute;
+  bottom: 0;
+  width: 100%; 
+  font-size: calc(6px + 1vmin);
+  color: #474e5c;
+}

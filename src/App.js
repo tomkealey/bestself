@@ -77,7 +77,9 @@ function App() {
     <div className="App">
       <header className="App-header" style={{ backgroundColor: `${colour}`, color: `${contrast}` }}>
         <p>{category}</p>
+        <p className="App-cards">{cards.categories.join(' | ')}</p>
       </header>
+      
     </div>
   );
 }
