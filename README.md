@@ -1,34 +1,36 @@
-<p align="center">
-  <img width="471" height="390" src="./assets/images/bestself-icebreaker-deck.png">
-</p>
-
-## Icebreaker
+## Deck 1: Icebreaker
 
 A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Icebreaker Deck, you’ll:
 
 - Move beyond small talk
 - Break down barriers, cultivate connections, and cultivate openness and vulnerability
-- Get to know people better across 6 categories: life, random, deep, experience, if you could…, and would you rather...
+
+Get to know people better across 6 categories: life, random, deep, experience, if you could…, and would you rather...
 
 Perfect to use with friends, coworkers, family, and strangers. Select a card and start sharing.
 Available for purchase [here](https://bestself.co/products/icebreaker-deck).
+
+## Deck 2: Little Talk
+
+A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Little Talk Deck, you’ll:
+
+- Move beyond small talk
+- Encourage self-expression
+- Inspire personal development
+- Cultivate self-acceptance and self-truth
+- Break down barriers, cultivate connections, and cultivate openness and vulnerability
+
+Get to know people better across 6 categories: hopes & dreams, random, self-expression, reflection, likes & dislikes, and emotional intelligence
+
+Perfect to use with friends, coworkers, family, and strangers. Select a card and start sharing.
+Available for purchase [here](https://bestself.co/products/little-talk-deck).
 
 ## Motivation
 
 If, like me, you sometimes struggle to pick a category then this little random category generator build in React has got you covered. It’s super simple. Hit up the site, Press the spacebar and lean in. 
 
+## LIVE Demo
 The app is running [here](https://cards-icebreaker.netlify.app/). Check it out the for youself. Enjoy!
-
-![icebreaker-pick-a-card](./assets/images/icebreaker-pick-a-card.gif)
-
-## Card Categories
-![Press the spacebar](./assets/images/press-the-spacebar.png)
-![Experiences](./assets/images/experiences.png)
-![Life](./assets/images/life.png)
-![Random](./assets/images/random.png)
-![Deep](./assets/images/deep.png)
-![If you could...](./assets/images/if-you-could.png)
-![Would you rather...](./assets/images/would-you-rather.png)
 
 ---
 
