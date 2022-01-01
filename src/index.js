@@ -6,10 +6,11 @@ import {
   Route
 } from 'react-router-dom';
 import App from './routes/App';
-import Icebreaker from './routes/Icebreaker';
-import Littletalk from './routes/Littletalk';
 import Courage from './routes/Courage';
 import Edison from './routes/Edison';
+import Icebreaker from './routes/Icebreaker';
+import Littletalk from './routes/Littletalk';
+import Words from './routes/Words';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
@@ -19,10 +20,11 @@ render(
   <Router>
     <Routes>
       <Route path="/" element={<App />} />
-      <Route path="/icebreaker" element={<Icebreaker />} />
-      <Route path="/littletalk" element={<Littletalk />} />
       <Route path="/courage" element={<Courage />} />
       <Route path="/edison" element={<Edison />} />
+      <Route path="/icebreaker" element={<Icebreaker />} />
+      <Route path="/littletalk" element={<Littletalk />} />
+      <Route path="/words" element={<Words />} />
       <Route 
         path="*" 
         element={

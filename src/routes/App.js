@@ -42,6 +42,13 @@ function App() {
         >
           littletalk<ArrowForwardIcon />
         </IconButton>
+        <IconButton 
+          component={Link} to={'/words'} 
+          color="inherit"
+          edge="start"
+        >
+          words<ArrowForwardIcon />
+        </IconButton>
       </ButtonGroup>
       </header>
     </div>
