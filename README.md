@@ -1,3 +1,5 @@
+![bestself companion app](./assets/images/bestself-companion.gif)
+
 ## Deck 1: Icebreaker
 
 A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Icebreaker Deck, you’ll:
