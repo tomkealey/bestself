@@ -22,6 +22,13 @@ function App() {
           courage<ArrowForwardIcon />
         </IconButton>
         <IconButton 
+          component={Link} to={'/edison'} 
+          color="inherit"
+          edge="start"
+        >
+          edison<ArrowForwardIcon />
+        </IconButton>
+        <IconButton 
           component={Link} to={'/icebreaker'} 
           color="inherit"
           edge="start"
