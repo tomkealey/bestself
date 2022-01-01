@@ -8,6 +8,7 @@ import {
 import App from './routes/App';
 import Icebreaker from './routes/Icebreaker';
 import Littletalk from './routes/Littletalk';
+import Courage from './routes/Courage';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
@@ -19,6 +20,7 @@ render(
       <Route path="/" element={<App />} />
       <Route path="/icebreaker" element={<Icebreaker />} />
       <Route path="/littletalk" element={<Littletalk />} />
+      <Route path="/courage" element={<Courage />} />
       <Route 
         path="*" 
         element={

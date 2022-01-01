@@ -15,16 +15,21 @@ function App() {
         variant="text"
       >
         <IconButton 
-          component={Link} 
-          to={'/icebreaker'} 
+          component={Link} to={'/courage'} 
+          color="inherit"
+          edge="start"
+        >
+          courage<ArrowForwardIcon />
+        </IconButton>
+        <IconButton 
+          component={Link} to={'/icebreaker'} 
           color="inherit"
           edge="start"
         >
           icebreaker<ArrowForwardIcon />
         </IconButton>
         <IconButton 
-          component={Link} 
-          to={'/littletalk'} 
+          component={Link} to={'/littletalk'} 
           color="inherit"
           edge="start"
         >
