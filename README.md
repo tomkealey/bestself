@@ -1,5 +1,3 @@
-![bestself companion app](./assets/images/bestself-companion.gif)
-
 ## Deck 1: Icebreaker
 
 A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Icebreaker Deck, you’ll:
@@ -32,6 +30,8 @@ Available for purchase [here](https://bestself.co/products/little-talk-deck).
 If, like me, you sometimes struggle to pick a category then this little random category generator build in React has got you covered. It’s super simple. Hit up the site, Press the spacebar and lean in. 
 
 ## LIVE Demo
+![bestself companion app](./assets/images/bestself-companion.gif)
+
 The app is running [here](https://bestself-companion.netlify.app/). Check it out the for youself. Enjoy!
 
 ---
