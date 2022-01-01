@@ -36,6 +36,13 @@ function App() {
           icebreaker<ArrowForwardIcon />
         </IconButton>
         <IconButton 
+          component={Link} to={'/intimacy'} 
+          color="inherit"
+          edge="start"
+        >
+          intimacy<ArrowForwardIcon />
+        </IconButton>
+        <IconButton 
           component={Link} to={'/littletalk'} 
           color="inherit"
           edge="start"

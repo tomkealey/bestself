@@ -9,6 +9,7 @@ import App from './routes/App';
 import Courage from './routes/Courage';
 import Edison from './routes/Edison';
 import Icebreaker from './routes/Icebreaker';
+import Intimacy from './routes/Intimacy';
 import Littletalk from './routes/Littletalk';
 import Words from './routes/Words';
 import './index.css';
@@ -23,6 +24,7 @@ render(
       <Route path="/courage" element={<Courage />} />
       <Route path="/edison" element={<Edison />} />
       <Route path="/icebreaker" element={<Icebreaker />} />
+      <Route path="/intimacy" element={<Intimacy />} />
       <Route path="/littletalk" element={<Littletalk />} />
       <Route path="/words" element={<Words />} />
       <Route 
