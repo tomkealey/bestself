@@ -1,13 +1,36 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
+import { IconButton } from '@mui/material';
+import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
+import ButtonGroup from '@mui/material/ButtonGroup';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <NavLink to="/icebreaker">icebreaker</NavLink>
-        <NavLink to="/littletalk">littletalk</NavLink>
+      <ButtonGroup
+        orientation="vertical"
+        aria-label="vertical contained button group"
+        variant="text"
+      >
+        <IconButton 
+          component={Link} 
+          to={'/icebreaker'} 
+          color="inherit"
+          edge="start"
+        >
+          icebreaker<ArrowForwardIcon />
+        </IconButton>
+        <IconButton 
+          component={Link} 
+          to={'/littletalk'} 
+          color="inherit"
+          edge="start"
+        >
+          littletalk<ArrowForwardIcon />
+        </IconButton>
+      </ButtonGroup>
       </header>
     </div>
   );
