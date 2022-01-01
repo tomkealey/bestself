@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { getRandomNumber, getContrastYIQ } from '../utils/Helper';
-import '../App.css';
+import '../styles/App.css';
 
 function Littletalk() {
   const [category, setCategory] = useState('Press the spacebar');
