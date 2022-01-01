@@ -5,7 +5,7 @@ import {
   Routes,
   Route
 } from 'react-router-dom';
-import App from './App';
+import App from './routes/App';
 import Icebreaker from './routes/Icebreaker';
 import Littletalk from './routes/Littletalk';
 import './index.css';

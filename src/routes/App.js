@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { IconButton } from '@mui/material';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import ButtonGroup from '@mui/material/ButtonGroup';
-import './styles/App.css';
+import '../styles/App.css';
 
 function App() {
   return (
