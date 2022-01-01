@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <NavLink to="/icebreaker">Icebreaker</NavLink>
+        <NavLink to="/icebreaker">icebreaker</NavLink>
+        <NavLink to="/littletalk">littletalk</NavLink>
       </header>
     </div>
   );

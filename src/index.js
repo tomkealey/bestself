@@ -7,6 +7,7 @@ import {
 } from 'react-router-dom';
 import App from './App';
 import Icebreaker from './routes/Icebreaker';
+import Littletalk from './routes/Littletalk';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
@@ -17,6 +18,7 @@ render(
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/icebreaker" element={<Icebreaker />} />
+      <Route path="/littletalk" element={<Littletalk />} />
       <Route 
         path="*" 
         element={
