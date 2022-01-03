@@ -1,4 +1,9 @@
-## Deck 1: Icebreaker
+## Table of Contents
+
+
+## Cards
+
+### Deck 1: Icebreaker
 
 A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Icebreaker Deck, you’ll:
 
@@ -10,7 +15,7 @@ Get to know people better across 6 categories: life, random, deep, experience, i
 Perfect to use with friends, coworkers, family, and strangers. Select a card and start sharing.
 Available for purchase [here](https://bestself.co/products/icebreaker-deck).
 
-## Deck 2: Little Talk
+### Deck 2: Little Talk
 
 A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Little Talk Deck, you’ll:
 
