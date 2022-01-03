@@ -1,8 +1,12 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Cards](#cards)
-  - [Deck 1: Icebreaker](#deck-1-icebreaker)
-  - [Deck 2: Little Talk](#deck-2-little-talk)
+  - [Courage](#courage)
+  - [Edison](#edison)
+  - [Icebreaker](#icebreaker)
+  - [Intimacy](#intimacy)
+  - [Little Talk](#little-talk)
+  - [Words](#words)
 - [Motivation](#motivation)
 - [LIVE Demo](#live-demo)
 - [Available Scripts](#available-scripts)
@@ -11,8 +15,11 @@
   - [`npm run build`](#npm-run-build)
 
 ## Cards
+### Courage
 
-### Deck 1: Icebreaker
+### Edison
+
+### Icebreaker
 
 A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Icebreaker Deck, you’ll:
 
@@ -24,7 +31,9 @@ Get to know people better across 6 categories: life, random, deep, experience, i
 Perfect to use with friends, coworkers, family, and strangers. Select a card and start sharing.
 Available for purchase [here](https://bestself.co/products/icebreaker-deck).
 
-### Deck 2: Little Talk
+### Intimacy
+
+### Little Talk
 
 A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Little Talk Deck, you’ll:
 
@@ -38,6 +47,8 @@ Get to know people better across 6 categories: hopes & dreams, random, self-expr
 
 Perfect to use with friends, coworkers, family, and strangers. Select a card and start sharing.
 Available for purchase [here](https://bestself.co/products/little-talk-deck).
+
+### Words
 
 ## Motivation
 
