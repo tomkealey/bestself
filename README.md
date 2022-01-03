@@ -1,5 +1,14 @@
 ## Table of Contents
-
+- [Table of Contents](#table-of-contents)
+- [Cards](#cards)
+  - [Deck 1: Icebreaker](#deck-1-icebreaker)
+  - [Deck 2: Little Talk](#deck-2-little-talk)
+- [Motivation](#motivation)
+- [LIVE Demo](#live-demo)
+- [Available Scripts](#available-scripts)
+  - [`npm start`](#npm-start)
+  - [`npm test`](#npm-test)
+  - [`npm run build`](#npm-run-build)
 
 ## Cards
 
