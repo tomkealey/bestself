@@ -16,39 +16,59 @@
 
 ## Cards
 ### Courage
+Expand your comfort zone with 150 daily challenges that inspire personal growth and mindset shifts.  
+
+- Empower yourself to crush big goals 
+- Transform your relationship with fear and thrive in discomfort 
+- Unlock your potential and become the best version of yourself
+  
+Available for purchase [here](https://bestself.co/products/courage-over-comfort-deck).
 
 ### Edison
+A creative and easy to follow framework for generating great and innovative ideas.
+
+- Empower yourself to think on your feet and generate great ideas 
+- Push yourself to answer tough questions 
+- Develop better thinking skills to solve any problem you face
+
+Great to work through alone or with a friend.
+
+Available for purchase [here](https://bestself.co/products/edison-deck).
 
 ### Icebreaker
-
 A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Icebreaker Deck, you’ll:
 
 - Move beyond small talk
 - Break down barriers, cultivate connections, and cultivate openness and vulnerability
-
-Get to know people better across 6 categories: life, random, deep, experience, if you could…, and would you rather...
+- Get to know people better across 6 categories: life, random, deep, experience, if you could…, and would you rather...
 
 Perfect to use with friends, coworkers, family, and strangers. Select a card and start sharing.
+
 Available for purchase [here](https://bestself.co/products/icebreaker-deck).
 
 ### Intimacy
+The perfect addition to date night - 150 prompts to spark deeper and more meaningful conversations. 
+
+- Reignite the intimate spark and fall in love again.  
+- Get to know each other better by asking deeper questions. 
+- Spend quality time together away and spice things up.  
+- Carve out time to truly be present and connected with your partner.  
+- Learn to speak each other’s love languages.
+
+Available for purchase [here](https://bestself.co/products/intimacy-deck).
 
 ### Little Talk
+Conversation starters for kids! Turn everyday moments into meaningful memories and spark bigger conversations with children and young people with these 150 prompt cards. 
 
-A deck of 150 conversation prompts that spark meaningful discussions and strengthen relationships. With the Little Talk Deck, you’ll:
-
-- Move beyond small talk
-- Encourage self-expression
-- Inspire personal development
-- Cultivate self-acceptance and self-truth
-- Break down barriers, cultivate connections, and cultivate openness and vulnerability
-
-Get to know people better across 6 categories: hopes & dreams, random, self-expression, reflection, likes & dislikes, and emotional intelligence
-
-Perfect to use with friends, coworkers, family, and strangers. Select a card and start sharing.
+- Connect with your kids and create quality family time too 
+- Encourage self-expression 
+- Inspire personal development from a young age 
+- Cultivate self-acceptance and self-trust and help children feel seen and heard
+  
 Available for purchase [here](https://bestself.co/products/little-talk-deck).
 
 ### Words
+Less writer's block, more writing! 150 prompts to stimulate the creative juices.
 
 ## Motivation
 
